@@ -1,6 +1,6 @@
-===================================================================================================================
 DS552 - Generative AI
 Assignment-2 Instructions:
+==========================
 Use the Penguins dataset open source dataset, focusing on two species only (e.g., Adelie and Gentoo), to
 compare the performance of Naive Bayes (Generative Model) and Logistic Regression (Discriminative Model).
 Please ensure to upload your Jupyter Lab Notebook along with the corresponding code and markdown
@@ -33,9 +33,11 @@ such as MNIST (handwritten digits).
 (e.g., Logistic Regression) differs when dealing with image data (MNIST) compared to the two-species
 penguin dataset.
 • Discuss the differences in performance and behavior across these datasets.
-===================================================================================================================
+
 DS552 - Generative AI
 Assignment-3
+==========================
+
 Task 1: Modify the VAE architecture to use convolutional layers for both the encoder and decoder, and
 train it on the CIFAR-10 dataset. This modification will allow the model to capture spatial relationships
 within images more effectively, improving its ability to generate high-quality images. After training, compare
@@ -58,4 +60,4 @@ of the VAE.
 Finally, applying the VAE to a new dataset (such as CelebA, a dataset of celebrity faces) and visualizing
 the generated images allows us to see how well the model generalizes to different kinds of data and how the
 latent space is structured for more complex, real-world images.
-===================================================================================================================
+
