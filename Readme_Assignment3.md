@@ -1,4 +1,4 @@
-Explanation of the Code for Task1_2
+Explanation of the Code for Task1
 ====================================
 To modify the VAE architecture to use convolutional layers for both the encoder and decoder, 
 we need to replace the fully connected layers with convolutional and transposed convolutional layers.
@@ -100,8 +100,8 @@ Applications:
 
 Latent space interpolation is useful for tasks like image morphing, data augmentation, and exploring the structure of the latent space.
 
-Explanation of the Code CelebA Dataset 
-=======================================
+Explanation of the Code CelebA Dataset(Task3) 
+==============================================
 Dataset Preprocessing:
 
 The CelebA dataset is resized to 64x64 and normalized to the range [-1, 1].
